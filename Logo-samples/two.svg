@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<svg height="200" width="500">
+  <ellipse cx="240" cy="150" rx="220" ry="30" style="fill:purple" />
+  <ellipse cx="240" cy="125" rx="190" ry="20" style="fill:lime" />
+  <ellipse cx="240" cy="105" rx="170" ry="15" style="fill:yellow" />
+  <ellipse cx="240" cy="85" rx="150" ry="10" style="fill:red" />
+  <text x="195" y="70" font-size="25px" fill="darkred" font-weight="bold">Kranti</text>
+  Sorry, your browser does not support inline SVG.
+</svg>
+
+</body>
+</html>
